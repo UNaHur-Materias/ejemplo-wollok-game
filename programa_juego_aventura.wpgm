@@ -10,7 +10,6 @@ program juego_aventura {
 	game.width(15)
 	game.boardGround("fondoBlanco.png")
 	menuInicial.mostrar()
-	// nivelBloques.configurate()
 	
 	game.start()
 }
