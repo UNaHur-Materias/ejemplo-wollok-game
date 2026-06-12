@@ -1,4 +1,4 @@
-# 🧪  Machete Rápido de Wollok Game (VSCode + Wollok TS)
+# 📝  Machete Rápido de Wollok Game (VSCode + Wollok TS)
 
 Una guía rápida para comenzar a desarrollar juegos simples con Wollok Game.
 
@@ -272,7 +272,7 @@ keyboard.enter().onPressDo({
 })
 ```
 
-## 🚀 Barra espaciadora
+## 📏 Barra espaciadora
 
 ```wollok
 keyboard.space().onPressDo({
