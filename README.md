@@ -1,5 +1,20 @@
 # 🎮 Oh Qué Aventura
 
+---
+
+# 🚀 Ejecución
+
+Desde Visual Studio Code:
+* Abrir el archivo `programa_juego_aventura.wpgm`
+* Clic en `Ejecutar programa`
+```wollok
+        Ejecutar programa | Depurar programa
+        program juego_aventura
+```
+* Abrir la URL mostrada en consola
+ 
+---
+
 Juego desarrollado en **Wollok Game** como ejercicio de Programación con Objetos.
 
 El jugador deberá superar dos niveles diferentes, cada uno con desafíos y mecánicas particulares.
@@ -125,22 +140,6 @@ El proyecto utiliza diversos conceptos trabajados durante la cursada:
 * Eventos.
 * Colisiones.
 * Juegos basados en objetos con Wollok Game.
-
----
-
-# 🚀 Ejecución
-
-Desde el IDE de Wollok ejecutar:
-
-```wollok
-program juego_aventura
-```
-
-o mediante la línea de comandos:
-
-```bash
-wollok run juego_aventura
-```
 
 ---
 
